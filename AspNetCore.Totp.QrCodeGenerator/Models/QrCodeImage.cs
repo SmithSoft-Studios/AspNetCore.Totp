@@ -1,7 +1,6 @@
-using System;
 using AspNetCore.Totp.Interface;
 
-namespace AspNetCore.Totp.Models
+namespace AspNetCore.Totp.QrCodeGenerator.Models
 {
     public class QrCodeImage : IQrCodeImage
     {

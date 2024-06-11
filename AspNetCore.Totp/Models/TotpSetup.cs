@@ -1,4 +1,5 @@
 ﻿using AspNetCore.Totp.Interface;
+using AspNetCore.Totp.QrCodeGenerator.Models;
 
 namespace AspNetCore.Totp.Models
 {
